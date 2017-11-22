@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">OreoApi</string>
+    <string name="btn1_description">Start foreground service</string>
+    <string name="btn1_title" >Start</string>
+    <string name="simple_service_title">Simple Service</string>
+    <string name="simple_service_desc">Simple Service from the OTest app</string>
+
+    <string name="main_create_noti2_btn">Send</string>
+
+    <string name="btnA_title">Go to Settings</string>
+    <string name="noti_channel_default">Primary Channel</string>
+    <string name="noti1_title">Notification 1 Title</string>
+    <string name="primary1_body">The content</string>
+    <string name="noti2_title">Second notification</string>
+    <string name="secondary1_body">Notification body text.</string>
+    <string name="noti_channel_second">Secondary Channel</string>
+
+    <string name="main_primary_title">Primary Channel</string>
+    <string name="main_primary_send1">Send 1</string>
+    <string name="main_primary_send2">Send 2</string>
+    <string name="main_primary_config">Go to primary settings</string>
+
+    <string name="main_secondary_title">Secondary Channel</string>
+    <string name="main_secondary_send1">Send 1</string>
+    <string name="main_secondary_send2">Send 2</string>
+    <string name="main_secondary_config">Go to secondary settings</string>
+    <string name="primary2_body">Second Notification for Primary Channel</string>
+    <string name="secondary2_body">Second Notification for Secondary Channel</string>
+    <string name="timeout_send">send</string>
+    <string name="hint_timeout">通知超时</string>
+    <string name="hide_on_launcher">不显示在桌面</string>
+    <string name="control_number_on_launcher">显示数目为20</string>
+    <string name="show_on_launcher">在桌面显示</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="message_style">message style</string>
+    <string name="addHistoricMessage">addHistoricMessage</string>
+
+    <string name="request">request</string>
+    <string name="invalid_family_name">Not a valid Family Name</string>
+    <string name="invalid_input">Invalid inputs exist</string>
+    <string name="family_name">Family Name</string>
+    <string name="weight">Weight</string>
+    <string name="width">Width</string>
+    <string name="italic">Italic</string>
+    <string name="best_effort">Best Effort (Nearest match)</string>
+    <string name="predefined_font">The pre-downloaded font is used for this part to avoid the overhead of the time until the requested font is downloaded. See "src/main/res/font" directory for usage.</string>
+    <string name="downloadable_font_applied_text">Typeface of this part is going to be changed when a new font is downloaded. To request a new font, fill the \"Family Name\" (and optionally change other attributes such as width, weight, italic), then tap the \"Request\" button</string>
+    <string name="request_failed">Font request failed with reason code: %1$d</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="info">Info</string>
+    <string name="info_description">Information about this video</string>
+    <string name="info_uri" translatable="false">https://peach.blender.org/</string>
+    <string name="fast_forward">Fast forward</string>
+    <string name="fast_rewind">Fast rewind</string>
+    <string name="minimize">Minimize</string>
+    <string name="enter_picture_in_picture">Enter Picture-in-Picture mode</string>
+    <string name="explanation"><![CDATA[
+    This sample demonstrates basic usage of Picture-in-Picture mode for handheld devices.
+    The sample plays a video. The video keeps on playing when the app is turned in to
+    Picture-in-Picture mode. On Picture-in-Picture screen, the app shows an action item to pause or
+    resume the video.
+    ]]></string>
+    <string name="switch_custom">Switch to custom actions example</string>
+    <string name="switch_media_session">Switch to using MediaSession</string>
+    <string name="font_content">Android 8.0 和 Android 支持库 26 允许您从提供程序应用请求字体，而无需将字体绑定到 APK 中或让 APK 下载字体。此功能可减小 APK 大小，提高应用安装成功率，使多个应用可以共享同一种字体。</string>
+
+    <array name="preset_sizes">
+        <item>12sp</item>
+        <item>24sp</item>
+        <item>36sp</item>
+        <item>48sp</item>
+        <item>60sp</item>
+        <item>72sp</item>
+        <item>84sp</item>
+    </array>
+
+    <string name="shortcut1">Shortcut 1</string>
+    <string name="shortcut1_long">Long shortcut 1</string>
+    <string name="shortcut1_disabled">Disabled shortcut 1</string>
+
+    <string name="shortcut2">Shortcut 2</string>
+    <string name="shortcut2_long">Long shortcut 2</string>
+    <string name="shortcut2_disabled">Disabled shortcut 2</string>
+
+    <string name="shortcut3">Shortcut 3</string>
+    <string name="shortcut3_long">Long shortcut 3</string>
+    <string name="shortcut3_disabled">Disabled shortcut 3</string>
+</resources>
