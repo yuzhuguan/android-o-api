@@ -1,3 +1,3 @@
 # android-o-api
 Demo Android Oreo 新功能
-![截屏][shortcut.png]
+![截屏](shortcut.png)
